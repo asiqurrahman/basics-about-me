@@ -63,3 +63,11 @@ main {
   margin-top: 1rem;
   color: rgb(148, 163, 184);
 }
+
+button {
+  margin-top: 16px;
+  padding: 20px;
+  background-color: #23a6d5;
+  color: whitesmoke;
+  border-radius: 8px;
+}
